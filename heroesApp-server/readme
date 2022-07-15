@@ -1,0 +1,8 @@
+Instalar Json Server
+
+npm install -g json-server
+
+Levantar Server json
+
+1. Ingresar a heroesApp-server con consola
+2. ejecutar json-server --watch db.json
